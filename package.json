@@ -5,7 +5,7 @@
   "devDependencies": {
     "@changesets/cli": "^2.29.7",
     "@types/node": "^24.5.1",
-    "@typescript-eslint/parser": "8.52.0",
+    "@typescript-eslint/parser": "8.56.1",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.39.5",
     "eslint-plugin-no-conditional-literals-in-jsx": "workspace:*",
